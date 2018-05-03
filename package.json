@@ -1,0 +1,33 @@
+{
+  "name": "sandbox-dist",
+  "version": "1.0.4",
+  "description": "eros smart contract vm",
+  "license": "",
+  "main": "index",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "co": "^4.6.0",
+    "randomstring": "^1.1.5",
+    "sync-request": "^6.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "vm",
+    "smart contract",
+    "javascript"
+  ],
+  "author": {
+    "name": "YouJia",
+    "email": "pbft@foxmail.com"
+  },
+  "contributors": [
+    {
+      "name": "YouJia",
+      "email": "pbft@foxmail.com"
+    }
+  ]
+}
