@@ -1006,7 +1006,8 @@ co(function *() {
   for (;;) {
     console.log(++count)
     const ret = yield _carryout({
-      id: 'SRESDFKLAC', source: code3, curHeight: 500, requesterKey: 'xxx'}, JSON.stringify({good, bad}), 5, 10000)
+      id: 'SRESDFKLAC', source: code3, curHeight: 500, requesterKey: 'xxx'},
+      JSON.stringify({good, bad}), 5000, 1)
     console.log(ret)
     console.log(JSON.parse(ret.result))
     yield Promise.delay(1000)
