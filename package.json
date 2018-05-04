@@ -1,6 +1,6 @@
 {
   "name": "sandbox-dist",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "eros smart contract vm",
   "license": "",
   "main": "index",
