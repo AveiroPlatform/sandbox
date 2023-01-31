@@ -1,7 +1,3 @@
-/*!
- * Copyright(c) Eros 2017 <pbft@foxmail.com>
- */
-
 const assert = require('assert')
 const randomstring = require('randomstring')
 const instrumentation = require('./lib/instrumentation.js')

@@ -1,11 +1,3 @@
-/*!
- * Copyright(c) Eros 2017 <pbft@foxmail.com>
- */
-
-/**
- * Module dependencies.
- */
-
 const assert = require('assert')
 const esprima = require('esprima')
 const escodegen = require('escodegen')
