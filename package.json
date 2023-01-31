@@ -1,7 +1,7 @@
 {
-  "name": "sandbox-dist",
-  "version": "1.0.10",
-  "description": "eros smart contract vm",
+  "name": "sandbox",
+  "version": "1.1.10",
+  "description": "Js smart contract vm consume gas",
   "license": "",
   "main": "index",
   "engines": {
@@ -9,10 +9,9 @@
   },
   "scripts": {},
   "dependencies": {
-    "bluebird": "^3.5.1",
-    "co": "^4.6.0",
-    "randomstring": "^1.1.5",
-    "sync-request": "^6.0.0"
+    "escodegen": "^2.0.0",
+    "esprima": "^4.0.1",
+    "randomstring": "^1.2.3"
   },
   "devDependencies": {},
   "keywords": [
@@ -22,12 +21,12 @@
   ],
   "author": {
     "name": "YouJia",
-    "email": "pbft@foxmail.com"
+    "email": "lifeign@proton.me"
   },
   "contributors": [
     {
       "name": "YouJia",
-      "email": "pbft@foxmail.com"
+      "email": "lifeign@proton.me"
     }
   ]
 }
